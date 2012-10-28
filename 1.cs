@@ -4,13 +4,15 @@ namespace Test{
 public class haha{
 
 
-public const string[3]={
+public const string[4]={
 
 
 "A",
 "B",
 "C",
 "E"
+
+"D"
 
 }
 
